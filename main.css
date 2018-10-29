@@ -1,0 +1,28 @@
+body, html {
+    height: 100%;
+    font-family: "Inconsolata", sans-serif;
+}
+.bgimg {
+    background-position: center;
+    background-size: cover;
+    background-image: url("https://www.mezcotoyz.com/mas_assets/cache/image/1/3/2/b/4907.Jpg");
+    min-height: 75%;
+}
+
+#about{
+	display: flex;
+
+    justify-content: flex-start;
+    font-family: 'Inconsolata', monospace;
+    color: white;
+
+}
+#gallery{
+	display: flex;
+    
+    align-items:center;
+}
+div {
+    background-color: black;
+}
+
